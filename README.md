@@ -40,6 +40,12 @@ Technical task for BeeLiked
       - **`services`**:
       - **`utils`**:
 
+## Tips and tricks
+To See all the todos, just follow the command below:
+1. Command + Shift + p
+2. Write `list` and select the option `TODO-highlight: List highlighted annotations`
+3. The list will open
+
 ## Best pratices
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [git-commit-msg-linter](https://www.npmjs.com/package/git-commit-msg-linter)
