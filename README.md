@@ -18,8 +18,10 @@ Technical task for BeeLiked
 
 ### Docker compose
 1. Open your docker app;
-2. Run `npm run docker` or `yarn docker`;
-3. Open;
+2. Navigate to the project root;
+3. Run `npm run docker` or `yarn docker`;
+4. Copy the following URL and paste in the navigation bar insde the browser [http://localhost:8080/](http://localhost:8080/);
+4. [http://localhost:8080/](http://localhost:8080/);
 
 ### Taditional way
 1. Clone the repository;
